@@ -1,0 +1,21 @@
+[{ 
+	"id":"P100",
+	"name":"PaisaTrip",
+	"departure":"Medellin",
+	"arrival":"Guatape",
+	"date":"10-09-2021"
+},
+{ 
+	"id":"P101",
+	"name":"BoyacoTrip",
+	"departure":"Guatavita",
+	"arrival":"Villa de Leyva",
+	"date":"15-09-2021"
+},
+{ 
+	"id":"P102",
+	"name":"CostaTrip",
+	"departure":"Cartagena",
+	"arrival":"Barranquilla",
+	"date":"20-09-2021"
+}]
